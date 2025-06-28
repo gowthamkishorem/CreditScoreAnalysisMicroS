@@ -1,4 +1,4 @@
-# Credit Score Analysis Tool
+# Credit Score Analysis Tool (Microservice)
 
 ## Overview
 A microservices-based backend system developed for automating credit score evaluations. The platform integrates data from financial institutions and credit bureaus to provide real-time credit scoring and predictive analytics for banking personnel.
